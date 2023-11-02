@@ -50,14 +50,14 @@
     "your_jobs": "งานของคุณ"
   },
   "location": {
-    "your_location": "เราต้องการตำแหนงของคุณ",
+    "your_location": "เราต้องการตำแหน่งของคุณ",
     "collect_location_data": "Fair&Fast Driver ต้องการรวบรวมข้อมูลตำแหนงเพื่อเปิดใช้งาน การติดตาม ยานพาหนะ, การขนส่ง, ตำแหนงรถขนส่ง, การแจงตำแหนงแกลูค้า ในการรับ-ส่งสินค้า\nโปรดเลือกที่จะอนุญาตเข้าถึงตำแหนงของคุณเพื่อใช้งานได้ครบทุกฟังชัน"
   },
   "job": {
     "confirm_pickup": "ยืนยันการรับสินค้า",
     "have_you_successfully": "คุณได้ทำการรับสินค้าเรียบร้อยแล้วใช่หรือไม่​?\nกรุณาอัพโหลดรูปภาพการรับสินค้าอย่างน้อย 1 รูป",
     "goods_picked_up": "รับสินค้าเรียบร้อยแล้ว",
-    "successfully": "คุณได้ทำการยืนยันการรับสินค้าจากลูค้าสำเร็จ"
+    "successfully": "คุณได้ทำการยืนยันการรับสินค้าจากลูกค้าสำเร็จ"
   },
   "jobDetail": {
     "pictures_of_pickup": "รูปภาพการรับสินค้า",
@@ -77,9 +77,9 @@
     "business_time": "เวลาทำการ (08:00-16:00)",
     "you_will_receive": "คุณจะได้รับ :",
     "job_details": "รายละเอียดงาน",
-    "booking_id": "หมายเลขการจอง :",
     "status": "สถานะ :",
     "price": "ราคา :",
+    "receive_job": "รับงาน",
     "reject_job": "ปฎิเสธงาน",
     "do_you_want_job": "คุณต้องการรับงานนี้ใช่หรือไม่",
     "you_have_job": "คุณได้รับงานเรียบร้อยแล้ว",
@@ -90,8 +90,8 @@
     "vehicle_type": "ประเภทรถ :",
     "license_plate": "ทะเบียนรถ :",
     "driver": "พนักงานขับรถ :",
-    "transport_vehicle": "รถขนสินค้า",
-    "transport_vehicle_type": "ประเภทรถขนสินค้า :"
+    "transport_vehicle": "รถขนส่ง",
+    "transport_vehicle_type": "ประเภทรถขนส่ง :"
   },
   "member": {
     "accept_jobs": "เปิดรับงาน",
@@ -130,7 +130,8 @@
     "you_have_successfully_confirmed_the_delivery_the_customer": "คุณได้ทำการยืนยันการส่งสินค้าจากลูค้าสำเร็จ"
   },
   "tabBar": {
-    "jobs": "งาน"
+    "jobs": "งาน",
+    "user": "ผู้ใช้งาน"
   },
   "placeholder": {
     "enter_phone_number": "กรอกเบอร์โทรศัพท์"
@@ -148,6 +149,8 @@
     "error": "ข้อบกพร่อง",
     "unable_connect_internet": "ไม่สามารถเชื่อมต่ออินเตอร์เน็ตได้",
     "sorry": "ขออภัย",
-    "you_cannot_accept_job": "ท่านไม่สามารถรับงานนี้ได้"
+    "you_cannot_accept_job": "ท่านไม่สามารถรับงานนี้ได้",
+    "google_map": "กรุณาติดตั้ง Google map ก่อนใช้",
+    "apple_map": "ไม่สามารถใช้ Apple Map ได้"
   }
 }
