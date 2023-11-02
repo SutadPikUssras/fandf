@@ -1,0 +1,153 @@
+{
+  "general": {
+    "next": "ถัดไป",
+    "it_okay": "ไม่เป็นไร",
+    "open": "เปิด",
+    "take_photo": "กล้องถ่าย",
+    "take_picture": "รูปถ่าย",
+    "cancel": "ยกเลิก",
+    "choose_image_or_take_picture": "เลือกรูปภาพ / ถ่ายรูป",
+    "confirm": "ตกลง",
+    "accept": "ยืนยัน",
+    "close_window": "ปิดหน้าต่าง",
+    "not_specified": "ไม่ระบุ",
+    "time": "เวลา",
+    "no_data_found": "ไม่พบข้อมูล",
+    "all_images": "รูปภาพทั้งหมด",
+    "no": "ไม่ใช่"
+  },
+  "signUp": {
+    "fair_and_fast_for_driver": "Fair and Fast \nfor Driver",
+    "sign_up_success": "สมัครสมาชิก",
+    "log_in": "ลงชื่อเข้าใช้",
+    "mobile_phone_number": "เบอร์โทรศัพท์มือถือ",
+    "join_as_transport_service_provider": "ร่วมเป็นผู้ให้บริการขนส่ง"
+  },
+  "home": {
+    "tabs": {
+      "all": "ทั้งหมด",
+      "new_jobs": "งานใหม่",
+      "on_the_way_pick_up": "กำลังไปรับสินค้า",
+      "on_the_way_deliver": "กำลังไปส่งสินค้า",
+      "delivered": "ส่งสินค้าเรียบร้อย",
+      "cancel_job": "ยกเลิกสินค้า"
+    },
+    "shipmentStatus": {
+      "new_jobs": "งานใหม่",
+      "received": "รับแล้ว",
+      "all": "ทั้งหมด",
+      "delivering": "ส่งงาน",
+      "delivered": "ส่งแล้ว",
+      "cancelled": "ยกเลิก"
+    },
+    "delivery_fee": "ราคาค่าขนส่ง :",
+    "delivery_time": "วันเวลารับสินค้า :",
+    "delivery_method": "รูปแบบการขนส่ง :",
+    "type_of_goods": "ประเภทของสินค้า :",
+    "destination": "ปลายทาง :",
+    "origin": "ต้นทาง :",
+    "booking_id": "หมายเลขการจอง :",
+    "your_jobs": "งานของคุณ"
+  },
+  "location": {
+    "your_location": "เราต้องการตำแหนงของคุณ",
+    "collect_location_data": "Fair&Fast Driver ต้องการรวบรวมข้อมูลตำแหนงเพื่อเปิดใช้งาน การติดตาม ยานพาหนะ, การขนส่ง, ตำแหนงรถขนส่ง, การแจงตำแหนงแกลูค้า ในการรับ-ส่งสินค้า\nโปรดเลือกที่จะอนุญาตเข้าถึงตำแหนงของคุณเพื่อใช้งานได้ครบทุกฟังชัน"
+  },
+  "job": {
+    "confirm_pickup": "ยืนยันการรับสินค้า",
+    "have_you_successfully": "คุณได้ทำการรับสินค้าเรียบร้อยแล้วใช่หรือไม่​?\nกรุณาอัพโหลดรูปภาพการรับสินค้าอย่างน้อย 1 รูป",
+    "goods_picked_up": "รับสินค้าเรียบร้อยแล้ว",
+    "successfully": "คุณได้ทำการยืนยันการรับสินค้าจากลูค้าสำเร็จ"
+  },
+  "jobDetail": {
+    "pictures_of_pickup": "รูปภาพการรับสินค้า",
+    "pictures_of_delivery": "รูปภาพการส่งสินค้า",
+    "go_google_maps": "ไปยัง Goole map",
+    "go_apple_maps": "ไปยัง Apple map",
+    "approximately": "ประมาณอีก",
+    "to_destination": "ถึงจุดเป้าหมาย",
+    "route": "เส้นทาง",
+    "distance": "ระยะทาง",
+    "additional_services": "บริการเสริม :",
+    "contact_name": "ชื่อผู้ติดต่อ :",
+    "contact_phone_number": "เบอร์โทรติดต่อ :",
+    "additional_details": "รายละเอียดเพิ่มเติม :",
+    "delivery_time": "เวลาการเข้าส่งสินค้า :",
+    "business_hours": "เวลาทำการ",
+    "business_time": "เวลาทำการ (08:00-16:00)",
+    "you_will_receive": "คุณจะได้รับ :",
+    "job_details": "รายละเอียดงาน",
+    "booking_id": "หมายเลขการจอง :",
+    "status": "สถานะ :",
+    "price": "ราคา :",
+    "reject_job": "ปฎิเสธงาน",
+    "do_you_want_job": "คุณต้องการรับงานนี้ใช่หรือไม่",
+    "you_have_job": "คุณได้รับงานเรียบร้อยแล้ว",
+    "have_you_received": "คุณได้รับสินค้าจากลูค้าแล้วใช่หรือไม่",
+    "have_you_delivered": "คุณได้ส่งสินค้าให้กับลูค้าแล้วใช่หรือไม่",
+    "deliver_goods": "ส่งสินค้า",
+    "service_vehicle": "รถที่ให้บริการ",
+    "vehicle_type": "ประเภทรถ :",
+    "license_plate": "ทะเบียนรถ :",
+    "driver": "พนักงานขับรถ :",
+    "transport_vehicle": "รถขนสินค้า",
+    "transport_vehicle_type": "ประเภทรถขนสินค้า :"
+  },
+  "member": {
+    "accept_jobs": "เปิดรับงาน",
+    "users": "ผู้ใช้งาน",
+    "drivers": "พนักงานขับรถ",
+    "vehicle_type": "ประเภทรถ",
+    "license_plate": "ทะเบียนรถ",
+    "phone_number": "หมายเลขโทรศัพท์",
+    "log_out": "ลงชื่อออก"
+  },
+  "opt": {
+    "confirm_otp": "ยืนยันตัวตน OTP",
+    "enter_otp": "กรุณากรอกเลข OTP ที่ส่งไปยังหมายเลข",
+    "resend": "ส่งอีกครั้ง",
+    "you_can_resend": "คุณจะสามารถส่งรหัสผ่านอีกครั้งได้ภาย"
+  },
+  "reject": {
+    "cant_pick_": "ฉันไม่สามารถไปรับสินค้าได้",
+    "pickup_delivery_location_iso_far": "สถานที่รับสินค้า/จัดส่งสินค้าอยู่ไกลเกินไป",
+    "other_reasons": "เหตุผลอื่นๆ",
+    "reason_rejecting_job": "กรุณาระบุเหตุผลที่ปฎิเสธงานนี้...",
+    "do_you_want_reject_the_job": "คุณต้องการปฎิเสธงานใช่หรือไม่",
+    "confirm_rejecting_the_job": "ยืนยันการปฎิเสธงาน",
+    "rejecting_job": "กรุณาระบุเหตุผลที่คุณต้องการปฎิเสธงานนี้"
+  },
+  "consent": {
+    "consent_collect_use_and_disclose_personal_data": "ความยินยอมในการเก็บรวบรวมใช้ \nและเปิดเผยข้อมูลส่วนบุคคล",
+    "accept_terms": "ยอมรับข้อตกลง"
+  },
+  "senderJob": {
+    "confirm_delivery": "ยืนยันการส่งงาน",
+    "have_you_successfully_delivered_the_goods": "คุณได้ทำการขนส่งสินค้าเรียบร้อยแล้วใช่หรือไม่​?\nกรุณาอัพโหลดรูปภาพการส่งสินค้าที่ปลายทางเพื่อส่งงาน\nกรุณาอัพโหลดรูปภาพการรับสินค้าอย่างน้อย 1 รูป",
+    "recipient_signature": "เซ็นชื่อผู้รับ",
+    "goods_delivered": "ส่งสินค้าเรียบร้อยแล้ว",
+    "confirm_order": "ยืนยันการส่งสินค้า",
+    "you_have_successfully_confirmed_the_delivery_the_customer": "คุณได้ทำการยืนยันการส่งสินค้าจากลูค้าสำเร็จ"
+  },
+  "tabBar": {
+    "jobs": "งาน"
+  },
+  "placeholder": {
+    "enter_phone_number": "กรอกเบอร์โทรศัพท์"
+  },
+  "validation": {
+    "valid_phone_number": "กรุณากรอกเบอร์โทรศัพท์ให้ถูกต้อง",
+    "complete_phone_number": "กรุณากรอกเบอร์โทรศัพท์ให้ครบ",
+    "another_reason": "กรุณากรอกเหตุผลอื่นๆ",
+    "phone_number_not_found": "ไม่มีเบอร์โทรศัพท์นี้ในระบบ",
+    "please_select": "กรุณาเลือก"
+  },
+  "error": {
+    "have_error": "มีข้อบกพร่อง",
+    "please_try_again": "กรุณาลองอีกครั้ง",
+    "error": "ข้อบกพร่อง",
+    "unable_connect_internet": "ไม่สามารถเชื่อมต่ออินเตอร์เน็ตได้",
+    "sorry": "ขออภัย",
+    "you_cannot_accept_job": "ท่านไม่สามารถรับงานนี้ได้"
+  }
+}
