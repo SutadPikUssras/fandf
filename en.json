@@ -14,14 +14,16 @@
     "time": "เวลา",
     "no_data_found": "ไม่พบข้อมูล",
     "all_images": "รูปภาพทั้งหมด",
-    "no": "ไม่ใช่"
+    "no": "ไม่ใช่",
+    "waiting": "รอสักครู่..."
   },
   "signUp": {
     "fair_and_fast_for_driver": "Fair and Fast \nfor Driver",
-    "sign_up_success": "สมัครสมาชิก",
+    "sign_up": "สมัครสมาชิก",
     "log_in": "ลงชื่อเข้าใช้",
     "mobile_phone_number": "เบอร์โทรศัพท์มือถือ",
-    "join_as_transport_service_provider": "ร่วมเป็นผู้ให้บริการขนส่ง"
+    "join_as_transport_service_provider": "ร่วมเป็นผู้ให้บริการขนส่ง",
+    "sign_in_with": "เข้าสู่ระบบด้วย"
   },
   "home": {
     "tabs": {
@@ -100,7 +102,8 @@
     "vehicle_type": "ประเภทรถ",
     "license_plate": "ทะเบียนรถ",
     "phone_number": "หมายเลขโทรศัพท์",
-    "log_out": "ลงชื่อออก"
+    "sign_out": "ลงชื่อออก",
+    "log_out": "ออกจากระบบ"
   },
   "opt": {
     "confirm_otp": "ยืนยันตัวตน OTP",
@@ -141,7 +144,10 @@
     "complete_phone_number": "กรุณากรอกเบอร์โทรศัพท์ให้ครบ",
     "another_reason": "กรุณากรอกเหตุผลอื่นๆ",
     "phone_number_not_found": "ไม่มีเบอร์โทรศัพท์นี้ในระบบ",
-    "please_select": "กรุณาเลือก"
+    "please_select": "กรุณาเลือก",
+    "connected_internet": "Connected to the Internet",
+    "disconnected_internet": "You are disconnected to the Internet.",
+    "check_internet": "Please check your internet connection."
   },
   "error": {
     "have_error": "มีข้อบกพร่อง",
@@ -151,6 +157,14 @@
     "sorry": "ขออภัย",
     "you_cannot_accept_job": "ท่านไม่สามารถรับงานนี้ได้",
     "google_map": "กรุณาติดตั้ง Google map ก่อนใช้",
-    "apple_map": "ไม่สามารถใช้ Apple Map ได้"
+    "apple_map": "ไม่สามารถใช้ Apple Map ได้",
+    "enter_email": "Please Enter your email",
+    "invalid_email": "Please Enter Valid Email",
+    "enter_password": "Please Enter your password",
+    "not_match_password": "Passwords don't match",
+    "invalid_password": "Password is too short",
+    "enter_your_name": "Please Enter your name",
+    "enter_phone_number": "Please Enter your phone number",
+    "enter_your_address": "Please Enter your address"
   }
 }
